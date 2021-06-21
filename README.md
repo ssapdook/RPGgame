@@ -1,3 +1,2 @@
 # RPGgame
-피드백이 있으면 이슈로 알려주세요
-버그및 패치사항이 있으면 알려주세요
+It's being patched.
